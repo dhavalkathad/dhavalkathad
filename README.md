@@ -1,7 +1,15 @@
 👨‍💻 About Me
 🌱 I’m a Frontend Developer passionate about building responsive, user-friendly websites.
+
+
+
 🔧 Skilled in HTML, CSS, Bootstrap, JavaScript, and currently learning React.js and Tailwind CSS.
+
+
+
 💻 Built and deployed multiple real-world web projects.
+
+
 🎯 Actively seeking Frontend Development opportunities.
 
 # 💻 Tech Stack:
